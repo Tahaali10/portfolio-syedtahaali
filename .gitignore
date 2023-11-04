@@ -1,0 +1,9 @@
+# Ignore build artifacts
+/build/
+/dist/
+
+# Ignore temporary files
+.DS_Store
+
+# Ignore Node.js modules
+/node_modules/
